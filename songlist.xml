@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styledata.css" ?>
+<coverband>
+	<song>
+		<title>Respect</title>
+		<artist>Aretha Franklin</artist>
+		<genre>Soul</genre>
+		<year>1967</year>
+	</song>
+	<song>
+		<title>Les Feuilles Mortes</title>
+		<artist>Yves Montand</artist>
+		<genre>Jazz</genre>
+		<year>1946</year>
+	</song>
+	<song>
+		<title>This Town</title>
+		<artist>Kygo, Sasha Sloan</artist>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>Sunrise</title>
+		<artist>Kygo, Jason Walker</artist>
+		<genre>EDM</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>Guantanamera</title>
+		<artist>Celia Cruz</artist>
+		<genre>Salsa</genre>
+		<year>1967</year>
+	</song>
+	<song>
+		<title>What's Up</title>
+		<artist>4 Non Blondes</artist>
+		<genre>Alternative</genre>
+		<year>1993</year>
+	</song>
+	<song>
+		<title>Sunny</title>
+		<artist>Bobby Hebb</artist>
+		<genre>R&amp;B</genre>
+		<year>1966</year>
+	</song>
+	<song>
+		<title>That's Why You Go Away</title>
+		<artist>Michael Learns To Rock</artist>
+		<genre>Pop</genre>
+		<year>1995</year>
+	</song>
+	<song>
+		<title>Redbone</title>
+		<artist>Childish Gambino</artist>
+		<genre>R&amp;B</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<title>Take Me Home, Country Roads</title>
+		<artist>John Denver</artist>
+		<genre>Country</genre>
+		<year>1971</year>
+	</song>
+
+</coverband>
